@@ -1,0 +1,12 @@
+RelativeMouseCoords/
+│
+├── src/
+│   └── mouse_tracker.py
+│
+├── docs/
+│   ├── README.html
+│   └── README.txt
+│
+├── requirements.txt
+├── requirements.py
+└── README.md
